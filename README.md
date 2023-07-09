@@ -7,7 +7,7 @@
 ## Deparment    : Ocean Engineering
 ## University   : Indian Insitute of Technology Madras, INDIA
 ###################################################################
-################################################################### 
+################################################################### \\
 This folder cotains the coresponding training codes for Deep Q-Networks Algorithms for the journal paper,
 
 "Data driven control based on Deep Q-Network algorithm for heading control
