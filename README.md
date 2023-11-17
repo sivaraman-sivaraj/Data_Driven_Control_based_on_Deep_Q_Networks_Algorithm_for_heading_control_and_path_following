@@ -1,4 +1,4 @@
-# Data_Driven_Control_based_on_Deep_Q_Networks_Algorithm_for_heading_control_and_path_following
+# Data Driven Control based on Deep Q-Networks Algorithm for heading control and path following
 
 ---------------------------------------------------------------------------
 ##  Deep Q_Networks Algorithm 
