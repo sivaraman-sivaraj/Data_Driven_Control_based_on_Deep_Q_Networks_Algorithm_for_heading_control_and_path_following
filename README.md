@@ -28,6 +28,10 @@ Directions for customization of different path's training:
 Users are requested to write a function for waypoints with reference to the functions in "waypoints.py" which should return (WP,X,Y,L)
 
 ---------------------------------------------------------------------------
+Google colab Link : Training codes are available in colab as well 
+
+https://colab.research.google.com/drive/1rS2bnA9I426L2hAYBggn3ezxSEFKIFAt
+---------------------------------------------------------------------------
 
 for further queries, Generic Weights Cases queries and queries experimental validations, please reach out to
 
