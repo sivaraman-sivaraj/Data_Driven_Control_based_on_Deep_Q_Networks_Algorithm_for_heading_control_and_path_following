@@ -33,7 +33,7 @@ Google colab Link : Training codes are available in colab as well
 https://colab.research.google.com/drive/1rS2bnA9I426L2hAYBggn3ezxSEFKIFAt
 ---------------------------------------------------------------------------
 
-for further queries, Generic Weights Cases queries and queries experimental validations, please reach out to
+for further queries (Generic Weights Cases, experimental validations) please reach out to
 
 "sureshr@iitm.ac.in" / "sivaraman.s@alumni.iitm.ac.in"
 
