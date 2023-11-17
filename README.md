@@ -19,7 +19,7 @@ Required Libraries : Numpy, Matplotlib, gym, torch, os, scipy, sys,time,math,pat
 
 Note to the Users  :
 
-To get the rendering of the environment, spyder IDE is required. In case, if there is any additional libraries requirements,
+To get render view of gym environment, spyder IDE is required. In case, if there is any additional libraries requirements,
 users are requested to use the pip installation in conda environment (i.e 'pip install pyglet')
 
 ---------------------------------------------------------------------------
